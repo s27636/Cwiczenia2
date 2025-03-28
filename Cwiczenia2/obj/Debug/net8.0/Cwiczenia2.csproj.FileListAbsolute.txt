@@ -1,0 +1,14 @@
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.AssemblyInfoInputs.cache
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.AssemblyInfo.cs
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.csproj.CoreCompileInputs.cache
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/bin/Debug/net8.0/Cwiczenia2
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/bin/Debug/net8.0/Cwiczenia2.deps.json
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/bin/Debug/net8.0/Cwiczenia2.runtimeconfig.json
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/bin/Debug/net8.0/Cwiczenia2.dll
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/bin/Debug/net8.0/Cwiczenia2.pdb
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.dll
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/refint/Cwiczenia2.dll
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.pdb
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/Cwiczenia2.genruntimeconfig.cache
+/Users/krzychu/Downloads/Cwiczenia2/Cwiczenia2/obj/Debug/net8.0/ref/Cwiczenia2.dll
